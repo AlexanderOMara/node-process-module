@@ -1,0 +1,21 @@
+{
+	"name": "process-module",
+	"description": "Exports process as a module",
+	"version": "1.0.0",
+	"keywords": [
+		"process",
+		"module",
+		"node",
+		"node.js"
+	],
+	"author": "Alexander O'Mara",
+	"copyright": "Copyright (c) 2018 Alexander O'Mara",
+	"license": "MPL-2.0",
+	"main": "index",
+	"types": "index.d.ts",
+	"repository": "https://github.com/AlexanderOMara/node-process-module",
+	"bugs": "https://github.com/AlexanderOMara/node-process-module/issues",
+	"dependencies": {
+		"@types/node": "*"
+	}
+}
